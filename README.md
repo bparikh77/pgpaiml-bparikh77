@@ -1,5 +1,23 @@
 COURSE PROJECTS
 
+Oct ‘21
+
+Topic: Autonomous Distracted Driver Monitoring System
+
+Domain: Computer Vision
+
+The aim of the project is to design and develop an inexpensive, modular system to monitor the driver's behaviour and provide an alert to the driver and the co-passengers. This is not a substitute for a commercial ADAS system but a step towards driver safety. Because of its modularity and commodity-class hardware, the system would be easy to retrofit in any car at an affordable price.
+
+Skills and Tools
+
+Deep Learning, Image Classification, OpenCV, Tensorflows and Keras, Advanced Computer Vision
+
+Conclusion
+
+Driver distraction detection solutions are possible to implement using driver segmentation, detection and classification using open-source  tools such as Tensorflow model-garden.
+
+Project Mentor:  Mr. Ashwin Narayanan
+
 Aug ’21
 
 Course: Sequential NLP
